@@ -4,7 +4,7 @@
     <parent>
         <artifactId>first-maven</artifactId>
         <groupId>com.example</groupId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>web</artifactId>
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>com.example</groupId>
             <artifactId>service</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1-SNAPSHOT</version>
         </dependency>
 
         <dependency>

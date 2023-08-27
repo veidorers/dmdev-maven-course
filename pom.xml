@@ -5,7 +5,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>first-maven</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
@@ -22,7 +22,7 @@
     <connection>scm:git:git@github.com:veidorers/dmdev-maven-course.git</connection>
     <developerConnection>scm:git:git@github.com:veidorers/dmdev-maven-course.git</developerConnection>
     <url>https://github.com/veidorers/dmdev-maven-course</url>
-    <tag>first-maven-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>

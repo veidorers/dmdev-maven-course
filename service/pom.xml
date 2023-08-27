@@ -5,7 +5,7 @@
     <parent>
         <artifactId>first-maven</artifactId>
         <groupId>com.example</groupId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>service</artifactId>
@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.example</groupId>
             <artifactId>database</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
